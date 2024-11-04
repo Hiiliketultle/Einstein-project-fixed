@@ -1,0 +1,45 @@
+img{
+    height:400px; 
+    width:400px;
+}
+body{
+    background-color:#c3f8ff;"
+}
+.h2Header{
+    text-align:center;
+}
+.liList{
+    Font-family: Arial;
+    Font-size: 1.25rem;
+     Font-weight:bold;
+}
+.secondList{
+    Font-size: 1rem;
+ Font-weight: normal;
+
+}
+.h2Head{
+    text-align:center;
+}
+.LiItem{
+    Font-family:Arial; Font-Size:1.25rem; Font-Weight:bold;
+}
+.LiItem2{
+    Font-Size:1rem; Font-Weight: normal; list-style-type:none;
+}
+.profileAlignment{
+    padding-left:20%;
+    padding-right:20%;
+}
+.centerTable{
+    Margin-left:auto;
+    Margin-right:auto;
+}
+.linkCells{
+    padding:10px;
+}
+.infoAlignment{
+    Margin-left:auto;
+    Margin-right:auto;}
+
+    
